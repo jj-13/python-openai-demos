@@ -1,0 +1,2 @@
+https://github.com/marketplace/models
+https://github.com/orgs/azure-ai-foundry/discussions/165
