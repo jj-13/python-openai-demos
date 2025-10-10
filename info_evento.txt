@@ -3,3 +3,9 @@ https://github.com/orgs/azure-ai-foundry/discussions/165
 
 session 1
   https://www.youtube.com/live/uxpJi7juhFs
+
+session 3: RAG
+  https://www.youtube.com/live/mKw_5QAeYDY  (es)
+  https://www.youtube.com/live/DHebceyjCbk  (en)
+  https://pymupdf.readthedocs.io/en/latest/
+  https://youtu.be/mKw_5QAeYDY?t=1740
