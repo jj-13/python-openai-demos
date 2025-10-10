@@ -11,3 +11,6 @@ session 3: RAG
   https://youtu.be/mKw_5QAeYDY?t=1740
 
   ejm: con postgresql https://pf-rag-postgres-btv-ca.purpletree-582651ba.northcentralus.azurecontainerapps.io/
+
+buid a rag with github: 
+https://www.youtube.com/watch?v=NC4msKJ_Euo
