@@ -9,3 +9,5 @@ session 3: RAG
   https://www.youtube.com/live/DHebceyjCbk  (en)
   https://pymupdf.readthedocs.io/en/latest/
   https://youtu.be/mKw_5QAeYDY?t=1740
+
+  ejm: con postgresql https://pf-rag-postgres-btv-ca.purpletree-582651ba.northcentralus.azurecontainerapps.io/
