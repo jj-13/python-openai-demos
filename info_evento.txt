@@ -14,3 +14,5 @@ session 3: RAG
 
 buid a rag with github: 
 https://www.youtube.com/watch?v=NC4msKJ_Euo
+
+https://www.youtube.com/@MadeByGPS/videos
